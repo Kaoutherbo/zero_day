@@ -1,9 +1,9 @@
 
-# Vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in the local computer
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone
+At the end of this project, I am expected to be able to explain to anyone
 
 * What is a virtual machine
 
@@ -18,4 +18,3 @@ At the end of this project, you are expected to be able to explain to anyone
 * How to use VMs with Vagrant
 
 * What does the command uname do
-
